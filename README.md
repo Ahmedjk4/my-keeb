@@ -28,6 +28,8 @@ After finishing the PCB, I designed a 3D-printed case around it using Onshape.
 Took me 6 hours because of the constrains tools always mess up when I try to move a sketch rectangle to fit the key.
 ![Case](https://github.com/Ahmedjk4/my-keeb/blob/main/photos/Screenshot%202026-08-12%20035022.png)
 
+Here is my [Onshape Model](https://cad.onshape.com/documents/ac0d0c8a76d47f62a8847ed2/w/3e72c33e2d57221932c06f57/e/e20cd8668801a9152e116827)
+
 ## Writing the Firmware
 
 Finally, I wrote the keyboard firmware using RMK firmware ( didn't write it I actually edited a .toml file ) and built it on github actions, on my repo https://github.com/Ahmedjk4/custom-keyboard-firmware/
