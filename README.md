@@ -34,7 +34,11 @@ Here is my [Onshape Model](https://cad.onshape.com/documents/ac0d0c8a76d47f62a88
 
 Finally, I wrote the keyboard firmware using RMK firmware ( didn't write it I actually edited a .toml file ) and built it on github actions, on my repo https://github.com/Ahmedjk4/custom-keyboard-firmware/
 
-![Firmware](https://github.com/Ahmedjk4/my-keeb/blob/main/photos/Screenshot%202026-08-12%20043313.png)
+![Firmware](https://github.com/Ahmedjk4/my-keeb/blob/main/photos/Screenshot_20261018_094411_Chrome.jpg)
+![Firmware](https://github.com/Ahmedjk4/my-keeb/blob/main/photos/Screenshot_20261018_094340_Chrome.jpg)
+![Firmware](https://github.com/Ahmedjk4/my-keeb/blob/main/photos/Screenshot_20261018_094330_Chrome.jpg)
+
+![Firmware Repo](https://github.com/Ahmedjk4/my-keeb/blob/main/photos/Screenshot%202026-08-12%20043313.png)
 
 ## What I Learnt
 
