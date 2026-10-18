@@ -58,6 +58,11 @@ With the PCB and case designs done, I moved on to the firmware. I used RMK, a ke
 
 I also set up a separate repository for the custom keyboard firmware and used GitHub Actions to build it. This gave me experience with configuring existing embedded software and using CI to build a project automatically.
 
+![Firmware](https://github.com/Ahmedjk4/my-keeb/blob/main/photos/Screenshot_20261018_094411_Chrome.jpg)
+![Firmware](https://github.com/Ahmedjk4/my-keeb/blob/main/photos/Screenshot_20261018_094340_Chrome.jpg)
+![Firmware](https://github.com/Ahmedjk4/my-keeb/blob/main/photos/Screenshot_20261018_094330_Chrome.jpg)
+
+
 ![Firmware build](https://github.com/Ahmedjk4/my-keeb/blob/main/photos/Screenshot%202026-08-12%20043313.png)
 
 Firmware repository: https://github.com/Ahmedjk4/custom-keyboard-firmware/
